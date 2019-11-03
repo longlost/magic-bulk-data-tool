@@ -1,5 +1,5 @@
 {
-  "name": "@spriteful/magic-bulk-data-tool",
+  "name": "@longlost/magic-bulk-data-tool",
   "version": "1.0.0",
   "description": "node.js script that saves card thumbnails to separate 'set' folders for use with node-tfjs-retrain module",
   "main": "index.js",
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spriteful/magic-bulk-data-tool.git"
+    "url": "git+https://github.com/longlost/magic-bulk-data-tool.git"
   },
-  "author": "Spriteful spritefuldev@gmail.com",
+  "author": "Longlost Dev longlostdev@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/spriteful/magic-bulk-data-tool/issues"
+    "url": "https://github.com/longlost/magic-bulk-data-tool/issues"
   },
-  "homepage": "https://github.com/spriteful/magic-bulk-data-tool#readme",
+  "homepage": "https://github.com/longlost/magic-bulk-data-tool#readme",
   "dependencies": {
     "esm": "^3.2.25",
-    "image-downloader": "^3.4.2",
+    "image-downloader": "^3.5.0",
     "minimist": "^1.2.0"
   }
 }
